@@ -1,0 +1,73 @@
+body{
+    background-repeat: no-repeat;
+    margin: 0;
+    padding:0;
+}
+
+header {
+    height: 260px;
+    margin-bottom: 0;
+    background-image: url(/assets/imgs/cafe_encabezado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 250px;
+    padding-top: 10px;
+    font-size: 100px;
+    color: #583c1f;
+    
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 250px;
+    font-size: 27px;
+    color: #97500a;
+}
+td {
+    margin: 0;
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+li {
+    list-style: none;
+    color: #b9620b;
+}
+
+footer {
+    margin-top: 15px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #a05000;
+    color: azure;
+    font-size: large;
+    text-align: center;
+}
+
+img {
+    margin-top: 15px;
+    padding: 0;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px #7e6449;
+}
+
+/*img {
+    border: 20px solid rgba(0, 0, 0, 0.5);
+    background-clip: padding-box;
+sirve para crear bordes con transparencia}*/
